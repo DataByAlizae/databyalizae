@@ -2,7 +2,7 @@
 
 ### Data Analyst | Tampa, FL 📊
 
-I'm on a journey — building my analytics skillset, sharpening my Python, and leveling up my Power BI game one project at a time. I believe in continuous improvement: *we can always be better until we truly understand.*
+I'm on a journey — building my analytics skillset, sharpening my Python, and leveling up my Power BI game one project at a time. I believe in continuous improvement: *we can't be better until we truly understand.*
 
 I specialize in turning raw data into clear, actionable insights — and I'm driven by the **why** behind every number.
 
